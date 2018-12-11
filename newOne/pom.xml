@@ -47,7 +47,7 @@
     <properties>
         <springframework.version>4.3.11.RELEASE</springframework.version>
         <junit.version>4.12</junit.version>
-        <jackson.version>2.9.0</jackson.version>
+        <jackson.version>2.9.5</jackson.version>
         <spring-data-redis>2.0.0.RC2</spring-data-redis>
         <log4j2.vesion>2.9.0</log4j2.vesion>
     </properties>
